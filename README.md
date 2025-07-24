@@ -14,7 +14,7 @@ A festive web project to celebrate Ganesh Chaturthi with interactive buttons, an
 
 [- 🔗 Click here to view the live site on Netlify](https://ganpatibappasite.netlify.app/)
 
-[- 🔗 Click here to view the live site on GitHub Pages](#)
+[- 🔗 Click here to view the live site on GitHub Pages](https://riteshraut0116.github.io/ganpati_bappa_html/)
 
 
 ---
