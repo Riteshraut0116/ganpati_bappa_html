@@ -6,7 +6,7 @@ A festive web project to celebrate Ganesh Chaturthi with interactive buttons, an
 
 ## 📸 Website Homepage
 
-![Website Homepage](ganapati-bappa-main/screenshot.png)
+![Website Homepage](/screenshot.png)
 
 ---
 
